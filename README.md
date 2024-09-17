@@ -1,4 +1,4 @@
-# Customer Churn Prediction Project
+# Customer Churn Prediction Project 📡 📞
 ## Project Overview
 The Customer Churn Prediction project aims to analyze patterns and behaviors of customers that are most likely to stop using a service or leave a company, helping businesses understand and act on these trends. By leveraging machine learning techniques and exploratory data analysis (EDA), this project seeks to predict the likelihood of customer churn based on several factors such as demographics, service usage, and customer interactions.
 ## Objective
